@@ -11,10 +11,14 @@
             "id": "5d281313199edcd9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Domain_Models/letter-routing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "letter-routing"
             }
           }
         ]
@@ -166,12 +170,13 @@
   },
   "active": "5d281313199edcd9",
   "lastOpenFiles": [
-    "System_Overview/index.md",
+    "Domain_Models/letter-entity.md",
+    "Domain_Models/letter-routing.md",
+    "System_Overview/architecture-overview.md",
+    "UseCases/register-letter.md",
     "Untitled.canvas",
-    "UseCases/index.md",
-    "Security/index.md",
-    "Export_Print/index.md",
-    "Domain_Models/index.md",
+    "Security/permission-model.md",
+    "Export_Print/pdf-export.md",
     "Database/index.md",
     "Changelog/index.md",
     "Welcome.md",
