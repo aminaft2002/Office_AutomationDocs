@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_Models/Security/UserRole.md",
+                "file": "Domain_Models/Document/DocumentPermission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UserRole"
+              "title": "DocumentPermission"
             }
           }
         ],
@@ -185,18 +185,22 @@
   },
   "active": "5eae403a4f9537b5",
   "lastOpenFiles": [
-    "Domain_Models/Security/role-permission.md",
+    "Domain_Models/Document/DocumentCategory.md",
+    "Domain_Models/Document/DocumentPermission.md",
+    "Domain_Models/Document/document-entity.md",
+    "Domain_Models/User/User.md",
+    "Domain_Models/Document",
+    "Domain_Models/letter/letter-entity.md",
     "Domain_Models/Security/UserRole.md",
+    "Domain_Models/Security/role-permission.md",
     "Domain_Models/Security/permission.md",
     "Domain_Models/Security/role.md",
     "Domain_Models/Security/two-factor-auth.md",
     "Domain_Models/Security/login-history.md",
     "Domain_Models/Security/UserCredential.md",
-    "Domain_Models/User/User.md",
     "Domain_Models/Security",
     "Domain_Models/Organization/organization-unit.md",
     "Domain_Models/User",
-    "Domain_Models/letter/letter-entity.md",
     "Domain_Models/Organization",
     "Domain_Models/letter/letter-attachment.md",
     "Domain_Models/letter/letter-permission.md",
@@ -215,7 +219,6 @@
     "Security",
     "Database",
     "UseCases",
-    "Domain_Models",
     "Untitled.md"
   ]
 }
