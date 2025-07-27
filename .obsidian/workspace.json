@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_Models/letter-routing.md",
+                "file": "Domain_Models/letter-attachment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "letter-routing"
+              "title": "letter-attachment"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "5d281313199edcd9",
   "lastOpenFiles": [
-    "Domain_Models/letter-entity.md",
     "Domain_Models/letter-routing.md",
+    "Domain_Models/letter-attachment.md",
+    "Domain_Models/letter-entity.md",
     "System_Overview/architecture-overview.md",
     "UseCases/register-letter.md",
     "Untitled.canvas",
