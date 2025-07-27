@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain_Models/Security/two-factor-auth.md",
+                "file": "Domain_Models/Security/role.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "two-factor-auth"
+              "title": "role"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "5eae403a4f9537b5",
   "lastOpenFiles": [
-    "Domain_Models/Security/login-history.md",
     "Domain_Models/Security/two-factor-auth.md",
+    "Domain_Models/Security/role.md",
+    "Domain_Models/Security/login-history.md",
     "Domain_Models/Security/UserCredential.md",
     "Domain_Models/User/User.md",
     "Domain_Models/Security",
