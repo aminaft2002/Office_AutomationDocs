@@ -24,13 +24,15 @@
 |`CreatedAt`|`DateTime`|زمان ایجاد|
 |`UpdatedAt`|`DateTime?`|زمان آخرین ویرایش|
 
-|ارتباط|توضیح|
-|---|---|
-|`Letter → User` (SenderUserId, CreatorUserId)||
-|`Letter → Unit` (SenderUnitId)||
-|`Letter → LetterAttachment` (1:N)||
-|`Letter → LetterFlow` (1:N)||
-|`Letter → LetterTag` (M:N)||
+| ارتباط                                        | توضیح |
+| --------------------------------------------- | ----- |
+| `Letter → User` (SenderUserId, CreatorUserId) |       |
+| `Letter → Unit` (SenderUnitId)                |       |
+| `Letter → Letter-attachment` (1:N)            |       |
+| `Letter → Letter-routing` (1:N)               |       |
+| `Letter → Letter-tag` (M:N)                   |       |
+| `Letter → Letter-permission` (M:N)            |       |
+|                                               |       |
 
 |ویژگی|توضیح|
 |---|---|
@@ -60,6 +62,23 @@
 | `IsConfidential` | `bool` | آیا محرمانه است؟ |
 | `Status` | `LetterStatus` | وضعیت فعلی نامه |
 | `Notes` | `string` | توضیحات داخلی یا توضیح ثبت‌کننده |
+
+
+
+
+  // 🔗 روابط (Foreign Keys / Associations)
+  createdBy: User
+  organization-unit: Organization-unit
+  status: Letter-Status
+  priority: Letter-Priority
+  type: Letter-Type
+
+  // 🔗 روابط چندگانه
+  attachments: Letter-Attachment[]
+  permissions: Letter-Permission[]
+  routings: Letter-Routing[]
+}
+
 
 ---
 
