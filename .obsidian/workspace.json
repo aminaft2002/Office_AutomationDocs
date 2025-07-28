@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/AddAttachmentsToLetter.md",
+                "file": "UseCases/Letter/ViewLetter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AddAttachmentsToLetter"
+              "title": "ViewLetter"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/AssignTagsToLetter.md",
     "UseCases/Letter/AddAttachmentsToLetter.md",
+    "UseCases/Letter/ViewLetter.md",
+    "UseCases/Letter/AssignTagsToLetter.md",
     "UseCases/Letter/FinalizeLetter.md",
     "UseCases/Letter/UpdateLetter.md",
     "UseCases/Letter",
@@ -196,7 +197,6 @@
     "Domain_Models/letter/letter-reply.md",
     "Domain_Models/letter/template_placeholders.md",
     "Domain_Models/letter/letter_tag_map.md",
-    "Domain_Models/letter/letter-type.md",
     "Domain_Models/Document",
     "Domain_Models/Security",
     "Domain_Models/User",
