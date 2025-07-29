@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/AssignLetterPermission.md",
+                "file": "UseCases/Letter/RevokeLetterPermission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AssignLetterPermission"
+              "title": "RevokeLetterPermission"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/RemoveTagFromLetter.md",
     "UseCases/Letter/AssignLetterPermission.md",
+    "UseCases/Letter/RevokeLetterPermission.md",
+    "UseCases/Letter/RemoveTagFromLetter.md",
     "UseCases/Letter/RemoveAttachment.md",
     "UseCases/Letter/EditLetter.md",
     "UseCases/Letter/DeleteLetter.md",
@@ -196,7 +197,6 @@
     "Domain_Models/letter/letter-permission.md",
     "Domain_Models/letter/letter-attachment.md",
     "Domain_Models/User/User.md",
-    "Domain_Models/letter/letter-forward.md",
     "Domain_Models/Document",
     "Domain_Models/Security",
     "Domain_Models/User",
