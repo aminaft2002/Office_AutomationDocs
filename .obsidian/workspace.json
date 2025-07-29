@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/DeleteLetter.md",
+                "file": "UseCases/Letter/EditLetter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeleteLetter"
+              "title": "EditLetter"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "Domain_Models/letter/letter-entity.md",
     "UseCases/Letter/DeleteLetter.md",
+    "UseCases/Letter/EditLetter.md",
+    "Domain_Models/letter/letter-entity.md",
     "UseCases/Letter/ViewLetter.md",
     "UseCases/Letter/AddAttachmentsToLetter.md",
     "UseCases/Letter/AssignTagsToLetter.md",
@@ -196,7 +197,6 @@
     "Security/permission-model.md",
     "Export_Print/pdf-export.md",
     "Domain_Models/letter/letter-reply.md",
-    "Domain_Models/letter/template_placeholders.md",
     "Domain_Models/Document",
     "Domain_Models/Security",
     "Domain_Models/User",
