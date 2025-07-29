@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/LogLetterAction.md",
+                "file": "UseCases/Letter/NotifyUsersOnLetter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LogLetterAction"
+              "title": "NotifyUsersOnLetter"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/RestoreLetter.md",
     "UseCases/Letter/LogLetterAction.md",
+    "UseCases/Letter/NotifyUsersOnLetter.md",
+    "UseCases/Letter/RestoreLetter.md",
     "UseCases/Letter/ArchiveLetter.md",
     "Domain_Models/letter/letter-routing.md",
     "UseCases/Letter/TrackLetterRouting.md",
@@ -196,7 +197,6 @@
     "Domain_Models/letter/letter-log.md",
     "Domain_Models/letter/LetterViewHistory.md",
     "Domain_Models/letter/LetterNotification.md",
-    "Domain_Models/letter/letter-status.md",
     "Domain_Models/Document",
     "Domain_Models/Security",
     "Domain_Models/User",
