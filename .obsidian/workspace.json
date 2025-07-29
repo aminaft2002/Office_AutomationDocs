@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/FilterLettersByStatus.md",
+                "file": "UseCases/Letter/ExportLetterAsPdf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FilterLettersByStatus"
+              "title": "ExportLetterAsPdf"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/FilterLettersByTag.md",
     "UseCases/Letter/FilterLettersByStatus.md",
+    "UseCases/Letter/ExportLetterAsPdf.md",
+    "UseCases/Letter/FilterLettersByTag.md",
     "UseCases/Letter/SearchLetters.md",
     "UseCases/Letter/MarkLetterAsRead.md",
     "UseCases/Letter/NotifyUsersOnLetter.md",
@@ -195,7 +196,6 @@
     "UseCases/Letter/AddAttachmentsToLetter.md",
     "UseCases/Letter/AssignTagsToLetter.md",
     "UseCases/Letter/FinalizeLetter.md",
-    "UseCases/Letter/UpdateLetter.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
