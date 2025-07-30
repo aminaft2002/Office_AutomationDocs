@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/GenerateLetterReport.md",
+                "file": "UseCases/Letter/SaveLetterAsDraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GenerateLetterReport"
+              "title": "SaveLetterAsDraft"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/UpdateLetterStatus.md",
     "UseCases/Letter/GenerateLetterReport.md",
+    "UseCases/Letter/SaveLetterAsDraft.md",
+    "UseCases/Letter/UpdateLetterStatus.md",
     "UseCases/Letter/ValidateLetterBeforeSend.md",
     "UseCases/Letter/GenerateLetterNumber.md",
     "UseCases/Letter/DuplicateLetter.md",
@@ -195,7 +196,6 @@
     "UseCases/Letter/TrackLetterAccessHistory.md",
     "UseCases/Letter/UnarchiveLetter.md",
     "UseCases/Letter/SendLetter.md",
-    "UseCases/Letter/ExportLetterAsPdf.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
