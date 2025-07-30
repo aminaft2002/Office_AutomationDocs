@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/PrintLetter.md",
+                "file": "UseCases/Letter/BulkSendLetter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PrintLetter"
+              "title": "BulkSendLetter"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/AssignLetterTag.md",
     "UseCases/Letter/PrintLetter.md",
+    "UseCases/Letter/BulkSendLetter.md",
+    "UseCases/Letter/AssignLetterTag.md",
     "UseCases/Letter/PinLetterToDashboard.md",
     "UseCases/Letter/TrackLetterAccessHistory.md",
     "UseCases/Letter/UnarchiveLetter.md",
@@ -195,7 +196,6 @@
     "UseCases/Letter/AssignLetterPermission.md",
     "UseCases/Letter/RemoveTagFromLetter.md",
     "UseCases/Letter/RemoveAttachment.md",
-    "UseCases/Letter/EditLetter.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
