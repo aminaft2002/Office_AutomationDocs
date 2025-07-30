@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/MarkLetterAsImportant.md",
+                "file": "UseCases/Letter/UnmarkLetterAsImportant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MarkLetterAsImportant"
+              "title": "UnmarkLetterAsImportant"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/GroupLetterByTag.md",
     "UseCases/Letter/MarkLetterAsImportant.md",
+    "UseCases/Letter/UnmarkLetterAsImportant.md",
+    "UseCases/Letter/GroupLetterByTag.md",
     "UseCases/Letter/RemoveLetterTag.md",
     "UseCases/Letter/UnpinLetterFromDashboard.md",
     "UseCases/Letter/BulkSendLetter.md",
@@ -195,7 +196,6 @@
     "Domain_Models/letter/LetterComment.md",
     "UseCases/Letter/AddLetterComment.md",
     "UseCases/Letter/ReplyToLetter.md",
-    "UseCases/Letter/ForwardLetter.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
