@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/RescheduleLetterSendTime.md",
+                "file": "UseCases/Letter/GetLettersSharedWithUser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RescheduleLetterSendTime"
+              "title": "GetLettersSharedWithUser"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/CancelScheduledLetterSend.md",
     "UseCases/Letter/RescheduleLetterSendTime.md",
+    "UseCases/Letter/GetLettersSharedWithUser.md",
+    "UseCases/Letter/CancelScheduledLetterSend.md",
     "UseCases/Letter/ScheduleLetterForSend.md",
     "UseCases/Letter/SaveLetterAsDraft.md",
     "UseCases/Letter/GenerateLetterReport.md",
@@ -195,7 +196,6 @@
     "UseCases/Letter/BulkSendLetter.md",
     "UseCases/Letter/PrintLetter.md",
     "UseCases/Letter/AssignLetterTag.md",
-    "UseCases/Letter/PinLetterToDashboard.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
