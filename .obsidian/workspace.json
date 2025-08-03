@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/User/RegisterUser.md",
+                "file": "UseCases/User/UpdateUserProfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RegisterUser"
+              "title": "UpdateUserProfile"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/ToggleLetterFlag.md",
     "UseCases/User/RegisterUser.md",
+    "UseCases/User/UpdateUserProfile.md",
+    "UseCases/Letter/ToggleLetterFlag.md",
     "UseCases/User",
     "UseCases/Letter/SetLetterColorLabel.md",
     "UseCases/Letter/UnshareLetterWithUser.md",
@@ -196,7 +197,6 @@
     "UseCases/Letter/GetLetterNoteHistory.md",
     "UseCases/Letter/RestoreDeletedNote.md",
     "UseCases/Letter/DeleteNoteFromLetter (softdelete).md",
-    "UseCases/Letter/EditNoteOnLetter.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
