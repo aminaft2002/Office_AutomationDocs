@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/User/ReactivateUserAccount.md",
+                "file": "UseCases/User/DeleteUserAccount(soft).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReactivateUserAccount"
+              "title": "DeleteUserAccount(soft)"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/User/DeactivateUserAccount.md",
     "UseCases/User/ReactivateUserAccount.md",
+    "UseCases/User/DeleteUserAccount(soft).md",
+    "UseCases/User/DeactivateUserAccount.md",
     "UseCases/User/UpdateUserProfile.md",
     "UseCases/User/RegisterUser.md",
     "UseCases/Letter/ToggleLetterFlag.md",
@@ -196,7 +197,6 @@
     "UseCases/Letter/DownloadAttachment.md",
     "UseCases/Letter/GetLetterAttachments.md",
     "UseCases/Letter/GetLetterAuditTrail.md",
-    "UseCases/Letter/GetLetterNoteHistory.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
