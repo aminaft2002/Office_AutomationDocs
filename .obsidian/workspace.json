@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/User/ResetUserPassword.md",
+                "file": "UseCases/User/ChangeUserPassword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ResetUserPassword"
+              "title": "ChangeUserPassword"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/User/DeleteUserAccount(soft).md",
     "UseCases/User/ResetUserPassword.md",
+    "UseCases/User/ChangeUserPassword.md",
+    "UseCases/User/DeleteUserAccount(soft).md",
     "UseCases/User/ReactivateUserAccount.md",
     "UseCases/User/DeactivateUserAccount.md",
     "UseCases/User/UpdateUserProfile.md",
@@ -196,7 +197,6 @@
     "UseCases/Letter/GenerateLetterNumber.md",
     "UseCases/Letter/DuplicateLetter.md",
     "UseCases/Letter/DownloadAttachment.md",
-    "UseCases/Letter/GetLetterAttachments.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
