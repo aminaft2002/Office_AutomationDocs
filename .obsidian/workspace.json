@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/Letter/ToggleLetterFlag.md",
+                "file": "UseCases/User/RegisterUser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToggleLetterFlag"
+              "title": "RegisterUser"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/Letter/SetLetterColorLabel.md",
     "UseCases/Letter/ToggleLetterFlag.md",
+    "UseCases/User/RegisterUser.md",
+    "UseCases/User",
+    "UseCases/Letter/SetLetterColorLabel.md",
     "UseCases/Letter/UnshareLetterWithUser.md",
     "UseCases/Letter/ShareLetterWithUser.md",
     "UseCases/Letter/ClearLetterReminder.md",
@@ -195,7 +197,6 @@
     "UseCases/Letter/RestoreDeletedNote.md",
     "UseCases/Letter/DeleteNoteFromLetter (softdelete).md",
     "UseCases/Letter/EditNoteOnLetter.md",
-    "UseCases/Letter/AddNoteToLetter.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
@@ -205,7 +206,6 @@
     "Untitled.canvas",
     "Changelog",
     "Export_Print",
-    "Security",
-    "Database"
+    "Security"
   ]
 }
