@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UseCases/User/UnlockUserAccount.md",
+                "file": "UseCases/User/UploadUserAvatar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UnlockUserAccount"
+              "title": "UploadUserAvatar"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "d9a31f3208be02ef",
   "lastOpenFiles": [
-    "UseCases/User/LockUserAccount.md",
     "UseCases/User/UnlockUserAccount.md",
+    "UseCases/User/UploadUserAvatar.md",
+    "UseCases/User/LockUserAccount.md",
     "UseCases/User/GetUserDetails.md",
     "UseCases/User/SearchUsers.md",
     "UseCases/User/ListUsers.md",
@@ -196,7 +197,6 @@
     "UseCases/Letter/GetLettersSharedWithUser.md",
     "UseCases/Letter/RescheduleLetterSendTime.md",
     "UseCases/Letter/CancelScheduledLetterSend.md",
-    "UseCases/Letter/ScheduleLetterForSend.md",
     "UseCases/Letter",
     "Domain_Models/Document",
     "Domain_Models/Security",
